@@ -1,0 +1,36 @@
+package com.herokuapp.theinternet;
+
+public class PositiveTests {
+	
+	public void loginTest() {
+		//create driver
+		
+		
+		//open test page
+		
+		
+		//enter username
+		
+		
+		//enter passwrd 
+		
+		
+		//click login button
+		
+		
+		//verifications: 
+		//	-new url
+		
+		
+		//-logout button visible
+		
+		
+		//-uccessful login message
+		
+		
+		//
+		
+	
+	}
+
+}

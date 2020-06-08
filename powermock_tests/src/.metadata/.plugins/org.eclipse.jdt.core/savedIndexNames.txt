@@ -1,0 +1,26 @@
+INDEX VERSION 1.131+/home/nyx/eclipse-workspace/powermock_tests/src/.metadata/.plugins/org.eclipse.jdt.core
+2209646270.index
+2098868108.index
+3403801380.index
+1049329900.index
+447352269.index
+4082886711.index
+272431159.index
+355239611.index
+223544413.index
+225906852.index
+3944663209.index
+4059560885.index
+1031404877.index
+1448134713.index
+1341059834.index
+969807548.index
+527061445.index
+3309630556.index
+4174796892.index
+4111070408.index
+793805673.index
+1870165823.index
+1736017239.index
+2063373727.index
+844094654.index

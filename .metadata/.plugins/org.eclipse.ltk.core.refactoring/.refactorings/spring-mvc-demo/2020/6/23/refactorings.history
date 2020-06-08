@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;firstname&apos; in &apos;com.luv2code.springdemo.mvc.Student&apos; to &apos;firstName&apos;&#x0A;- Original project: &apos;spring-mvc-demo&apos;&#x0A;- Original element: &apos;com.luv2code.springdemo.mvc.Student.firstname&apos;&#x0A;- Renamed element: &apos;com.luv2code.springdemo.mvc.Student.firstName&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;firstname&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.luv2code.springdemo.mvc{Student.java[Student^firstname" name="firstName" references="true" setter="false" stamp="1591362958812" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,29 @@
+package com.luv2code.springdemo;
+
+public class BalletCoach implements Coach {
+	
+	private FortuneService fortuneService;
+	
+	public BalletCoach(FortuneService theFortuneService) {
+		fortuneService= theFortuneService;
+	}
+
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String contact() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

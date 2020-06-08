@@ -1,0 +1,63 @@
+package com.luv2code.springdemo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+
+
+@Component //uses default bean id, Classname mit anfangsbuchstabe klein
+public class TennisCoach implements Coach{
+	
+	@Autowired // example for field injection. 
+	@Qualifier("badFortuneService")
+	private FortuneService fortuneService;
+	
+	
+	
+	/* example for constructor injection
+	@Autowired //Spring will find a bean that implements FortuneService
+	public TennisCoach(FortuneService theFortuneService) {
+		fortuneService = theFortuneService;
+	}*/
+	
+	
+	
+	//define a default constructor
+	public TennisCoach() {
+		System.out.println(">>TennisCoach: inside default constructor /n");
+	}
+	
+	
+	//define a setter method: setter injection with Autowired
+	/*@Autowired //brauche ich, weil fortuneService injected werden muss
+	public void setFortuneService(FortuneService theFortuneService) {
+		System.out.println(">>TennisCoach: inside setFortuneService() method");
+		fortuneService = theFortuneService;*/
+	//}
+	
+	
+	/*@Autowired //egal welche Methode
+	public void doSomeCrazyStuff(FortuneService theFortuneService) {
+		System.out.println(">>TennisCoach: inside doSomeCrazyStuff() method");
+		fortuneService = theFortuneService;
+	}*/
+	
+	@Override
+	public String getDailyWorkout() {
+				return "Practice your backhand volley";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		return fortuneService.getFortune();
+	}
+
+
+	@Override
+	public String contact() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+
+}

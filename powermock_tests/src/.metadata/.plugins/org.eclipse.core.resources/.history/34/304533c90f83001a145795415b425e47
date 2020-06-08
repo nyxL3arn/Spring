@@ -1,0 +1,39 @@
+package com.herokuapp.theinternet;
+
+public class PositiveTests {
+	
+	public void loginTest() {
+		//create driver
+		System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver");
+		                  //drivername                 //path to driver
+		Webdriver driver = new ChromeDriver();
+		
+		
+		//open test page
+		
+		
+		//enter username
+		
+		
+		//enter passwrd 
+		
+		
+		//click login button
+		
+		
+		//verifications: 
+		//	-new url
+		
+		
+		//-logout button visible
+		
+		
+		//-uccessful login message
+		
+		
+		//
+		
+	
+	}
+
+}
