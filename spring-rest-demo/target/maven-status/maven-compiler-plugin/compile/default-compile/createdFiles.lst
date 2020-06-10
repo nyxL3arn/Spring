@@ -1,0 +1,5 @@
+com/luv2code/springdemo/conf/MySpringMvcDispatcherServletInitializer.class
+com/luv2code/springdemo/rest/StudentRestController.class
+com/luv2code/springdemo/entity/Student.class
+com/luv2code/springdemo/conf/DemoAppConfig.class
+com/luv2code/springdemo/rest/DemoRestController.class

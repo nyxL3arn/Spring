@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/nyx/eclipse-workspace"/>
+			<item value="/home/nyx/Spring/jackson-databinding-json-demo"/>
 			<item value="/home/nyx/eclipse-workspace/JUnitAndMockito/src/test/java/com/in28minutes/mockito/SpyTest.java"/>
 			<item value="/home/nyx/eclipse-workspace/JUnitAndMockito"/>
 			<item value="/home/nyx/eclipse-workspace/JUnitAndMockito/src/main/java"/>
@@ -17,6 +19,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -28,10 +31,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.luv2code.jackson_databind_demo"/>
 		</list>
 		<list key="groupId">
+			<item value="com.luv2code"/>
 		</list>
 		<list key="artifactId">
+			<item value="jackson-databind-demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -47,14 +53,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.in28minutes-powermock"/>
-			<item value="com.in28minutes.mockito"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="powermock_tests"/>
-			<item value="mockito-example"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -69,11 +71,22 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/nyx/Downloads/spring-rest-demo"/>
+			<item value="/home/nyx/Spring/jackson-databinding-json-demo"/>
+			<item value="/home/nyx/eclipse-workspace/spring-demo-aop-pointcut-declarations"/>
 			<item value="/home/nyx/Downloads/maven project"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -84,5 +97,11 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="520"/>
+		<item key="x" value="723"/>
+		<item key="y" value="194"/>
 	</section>
 </section>

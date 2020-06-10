@@ -16,6 +16,7 @@ public class StudentController {
 		//create a new student object
 		Student theStudent = new Student();
 		
+		theStudent.setFirstName("Nyco");
 		//add student object to model
 		theModel.addAttribute("student",theStudent);
 					

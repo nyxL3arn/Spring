@@ -32,11 +32,18 @@ public void beforeAddAccountAdvice() {
 			System.out.println("\n====>>> Executing @Before advice on any add...-method() with any return-type");
 		}*/
 	
-	@Before("execution(* add*(com.luv2code.aopdemo.Account))")
+	//calling the Pointcut Expression to match a specific parameter
+	/*@Before("execution(* add*(com.luv2code.aopdemo.Account))")
 	public void beforeAddAccountAdvice() { 
 		
 		System.out.println("\n====>>> Executing @Before advice on any add...-method() with the specific Account param");
-	}
+	}*/
 	
+	//calling the Pointcut Expression to match any number of arguments
+	@Before("execution(* add*(..))")
+	public void beforeAddAccountAdvice() { 
+		
+		System.out.println("\n====>>> Executing @Before advice on any add...-method() with any number of arguments");
+	}
 	
 }

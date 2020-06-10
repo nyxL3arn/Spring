@@ -176,4 +176,5 @@
   <uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_2.xsd" uri="jar:file:/snap/eclipse/48/../../../home/nyx/.eclipse/360744286_linux_gtk_x86_64/plugins/org.eclipse.jst.standard.schemas_1.2.300.v201903222120.jar!/dtdsAndSchemas/web-partialresponse_2_2.xsd"/>
   <uri name="http://xmlns.jcp.org/xml/ns/javaee/web-partialresponse_2_3.xsd" uri="jar:file:/snap/eclipse/48/../../../home/nyx/.eclipse/360744286_linux_gtk_x86_64/plugins/org.eclipse.jst.standard.schemas_1.2.300.v201903222120.jar!/dtdsAndSchemas/web-partialresponse_2_3.xsd"/>
   <uri id="org.w3c.xinclude" name="http://www.w3.org/2001/XInclude" uri="jar:file:/snap/eclipse/48/../../../home/nyx/.eclipse/360744286_linux_gtk_x86_64/plugins/org.eclipse.wst.xsl.core_1.2.100.v201907231732.jar!/xslt-schemas/xinclude.xsd"/>
+  <public publicId="-//Sun Microsystems, Inc.//DTD Facelet Taglib 1.0//EN" uri="jar:file:/snap/eclipse/48/../../../home/nyx/.eclipse/360744286_linux_gtk_x86_64/plugins/org.eclipse.jst.jsf.facelet.core_1.4.2.v201902121810.jar!/dtd/facelet-taglib_1_0.dtd" webURL="facelet-taglib_1_0.dtd"/>
 </catalog>
