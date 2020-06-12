@@ -3,3 +3,6 @@
 1591713677707	Delete resource 'jackson-databind-json'
 1591776007121	Delete resource 'jackson-databind-demo'
 1591793968862	Delete resource 'spring-rest-demo'
+1591868027113	Delete resource 'mycoolapp'
+1591868467133	Rename Java project 'mycoolapp'
+1591951677252	Rename Java project 'cruddemo'

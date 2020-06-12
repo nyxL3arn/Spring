@@ -84,6 +84,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/nyx/eclipse-workspace/cruddemo"/>
+			<item value="/home/nyx/eclipse-workspace/mycoolapp"/>
+			<item value="/home/nyx/eclipse-workspace/spring-crm-rest-demo"/>
 			<item value="/home/nyx/Downloads/spring-rest-demo"/>
 			<item value="/home/nyx/Spring/jackson-databinding-json-demo"/>
 			<item value="/home/nyx/eclipse-workspace/spring-demo-aop-pointcut-declarations"/>

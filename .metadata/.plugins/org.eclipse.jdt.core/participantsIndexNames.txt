@@ -1,4 +1,6 @@
 INDEX VERSION 1.131
+/home/nyx/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/421648089.index
+/spring-crm-rest-demo/src/main/java
 /home/nyx/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3246518651.index
 /spring-mvc-demo/src
 /home/nyx/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/476549201.index

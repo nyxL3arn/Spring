@@ -1,4 +1,5 @@
 #Tomcat publish data
-#Wed Jun 10 14:49:13 CEST 2020
+#Wed Jun 10 19:03:20 CEST 2020
 org.eclipse.jst.jee.server\:/binary\:/home/nyx/eclipse-workspace/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.2.6.RELEASE.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/nyx/.m2/repository/org/springframework/spring-web/5.0.17.RELEASE/spring-web-5.0.17.RELEASE.jar=WEB-INF/lib/spring-web-5.0.17.RELEASE.jar
 org.eclipse.jst.jee.server\:/binary\:/home/nyx/eclipse-workspace/spring-mvc-demo/WebContent/WEB-INF/lib/spring-web-5.2.6.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE-sources.jar
